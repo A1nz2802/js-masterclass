@@ -1,0 +1,10 @@
+//-----------------------------------//
+//             NOTAS                 //
+//-----------------------------------/
+//console.log('HOLA MUNDO!')
+//Ctrl K + Ctrl C, comentas todo
+//typeof puede o no usar parentesis
+//MDN WebDocs es la bibliografía de JavaScript
+//Los arreglos no pueden compararse ya que se comparan con referencias (Solo objetos pueden)
+//En JavaScript todos los valores son True al menos que se definan como falso. (Excepto null, undefined, 0, '', NaN)
+//NaN = Not a Number

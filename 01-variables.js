@@ -1,14 +1,17 @@
-// console.log('Hola Mundo!')
-//? Existen 3 formas de crear variables en JavaScript
+//?---------------------------------------------------
+//?Existen 3 formas de crear variables en Javascript
+//?---------------------------------------------------
 
-//* las variables let SI se pueden re-asignar
-let firtName = 'Brawer'
-// console.log(firtName)
-firtName = 'Daniel'
-// console.log(firtName)
+let firstName = 'Mirko'
+console.log(firstName)
 
-//* las variables const NO se pueden re-asignar
-const lastName = 'Nuñez'
+firstName = 'Bruno'
+console.log(firstName)
 
-//! Nunca utilices var
-var algo = 'Cualquier cosa'
+const lastName = 'Vela'
+console.log(lastName)
+
+//!Var se puede llamar dentro y fuera del scoup, por ello no se suele usar
+
+var lastName2 = 'López'
+console.log(lastName2)
