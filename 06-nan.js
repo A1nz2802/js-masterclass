@@ -5,12 +5,12 @@
 
 // console.log( typeof NaN )
 
-let variable = 'aasdlasd'
+let variable = 'asdasd'
 let numero = parseInt(variable)
-// console.log(numero)
+console.log(numero)
 
 //* La función isNaN() se usa para verificar si
 //* un determinado valor o expresión se evalua como NaN
 //* retorna true o false
 
-console.log(isNaN(NaN))
+// console.log(isNaN(NaN))

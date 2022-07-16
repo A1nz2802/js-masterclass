@@ -9,7 +9,7 @@ if (a === b) {
 
 
 //* Operador Ternario
-a == b ? console.log('Son iguales') : console.log('Son diferentes')
+a === b ? console.log('Son iguales') : console.log('Son diferentes')
 
 //* Otra forma
 a === b && console.log('Son iguales')

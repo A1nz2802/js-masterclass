@@ -10,7 +10,6 @@ let false2 = false
 const isDefined = true || null
 const some = 'text'
 
-console.log()
 // console.log(typeof(text))
 // console.log(typeof(numero))
 // console.log(typeof(verdadero))

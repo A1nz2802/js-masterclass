@@ -7,3 +7,9 @@ console.log(a || 1)
 console.log(!true && 1)
 console.log(a && 1)
 console.log(a && 1)
+
+if ('5' == 5) {
+  console.log('Son iguales')
+} else {
+  console.log('Son diferentes')
+}

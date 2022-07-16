@@ -13,12 +13,3 @@ let persona = {
     movil: '958395492'
   }
 }
-
-/* console.log(persona.contacto.email)
-console.log(persona['nombre'][0])
-console.log(persona.edad)
-console.log(persona.saludo()) */
-
-console.log(Object.keys(persona))
-console.log(Object.values(persona))
-console.log(persona.hasOwnProperty('nombre'))

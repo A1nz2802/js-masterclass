@@ -1,3 +1,4 @@
+
 // console.log('Hola Mundo!')
 //? Existen 3 formas de crear variables en JavaScript
 
@@ -11,4 +12,9 @@ firtName = 'Daniel'
 const lastName = 'Nuñez'
 
 //! Nunca utilices var
-var algo = 'Cualquier cosa'
+var algo = 'asdsa'
+{
+  
+}
+
+console.log(algo)

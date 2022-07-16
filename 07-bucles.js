@@ -22,25 +22,27 @@ for (let k = 0; k <= 10; k++) {
 //* Bucle For Each (propio de los arreglos)
 const arr = [null, undefined, 3, 'Hola']
 
-arr.forEach(function(element, indice, arr){
-  // console.log(indice, element, arr)
+arr.forEach(function(element, index, arr){
+  // console.log(arr)
 })
+
+
 
 //* Bucle For of
 let precios = [100, 250, 300, 400]
 
 for (let precio of precios) {
-  console.log(`El precio es: ${precio}`)
+  // console.log(`El precio es: ${precio}`)
 }
 
 let cadena = 'Hola'
 for (let caracter of cadena) {
-  console.log(caracter)
+  // console.log(caracter)
 }
 
 //* Bucle For in
 let nombres = ['Holcen', 'Daniel', 'Mirko', 'Renzo']
 
 for (let nombre in nombres) {
-  // console.log(nombre)
+  console.log(nombre)
 }
